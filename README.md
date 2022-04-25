@@ -1,3 +1,3 @@
 # -求职项目
 
-项目打包 example.rar
+整体项目打包为 example.rar
